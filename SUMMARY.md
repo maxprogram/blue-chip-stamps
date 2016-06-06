@@ -1,5 +1,6 @@
 # Summary
 
+* [1977](letters/1977.md)
 * [1978](letters/1978.md)
 * [1979](letters/1979.md)
 * [1980](letters/1980.md)
